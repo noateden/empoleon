@@ -1549,7 +1549,7 @@ StScrollBar {
   .notification-banner .secondary-icon {
     icon-size: 1.09em; }
   .notification-banner .notification-actions {
-    background-color: #252831;
+    background-color: #242932;
     padding-top: 2px;
     spacing: 1px; }
   .notification-banner .notification-button {
@@ -1561,7 +1561,7 @@ StScrollBar {
     .notification-banner .notification-button:last-child {
       border-radius: 0 0 3px 0; }
     .notification-banner .notification-button:hover, .notification-banner .notification-buttonfocus {
-      background-color: #252831;
+      background-color: #242932;
       color: rgba(135, 186, 248, 0.5); }
 
 .summary-source-counter {

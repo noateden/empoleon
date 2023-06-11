@@ -2922,7 +2922,7 @@ menubar,
 menu, .menu, .context-menu {
   margin: 4px;
   padding: 2px 0px;
-  background-color: #252831;
+  background-color: #242932;
   border: 1px solid rgba(30, 35, 38, 0.9);
   font: initial; }
   .csd menu,
@@ -2967,7 +2967,7 @@ menu, .menu, .context-menu {
     min-height: 16px;
     min-width: 16px;
     padding: 4px;
-    background-color: #252831;
+    background-color: #242932;
     border-radius: 0; }
     menu > arrow.top, .menu > arrow.top, .context-menu > arrow.top {
       margin-top: -6px;
@@ -3292,7 +3292,7 @@ paned.vertical > separator {
 popover.background {
   padding: 2px;
   border-radius: 5px;
-  background-color: #252831;
+  background-color: #242932;
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.4); }
   .csd popover.background, popover.background {
     border: 1px solid rgba(30, 35, 38, 0.9); }
@@ -6272,7 +6272,7 @@ window.thunar toolbar > toolitem > widget > widget.linked.path-bar > button.path
         color: rgba(135, 186, 248, 0.4); }
 .nemo-window .nemo-inactive-pane .view, .nemo-window .nemo-inactive-pane iconview,
 .nemo-window .nemo-inactive-pane iconview {
-  background-color: #252831; }
+  background-color: #242932; }
 
 .caja-notebook .frame {
   border-width: 0 0 1px; }

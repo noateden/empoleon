@@ -1,9 +1,3 @@
-
-![](Art/logo.png)
-
-![](Art/Dracula.png)
-
-
 #### Installation
 
 Extract the zip file to the themes directory i.e. `/usr/share/themes/` or `~/.themes/` (create it  if necessary).
@@ -17,4 +11,4 @@ gsettings set org.gnome.desktop.wm.preferences theme "Ant-Dracula"
 or Change via distribution specific tool.
 
 ### Note:
-* This theme is based on the [evopop-gtk-theme](https://github.com/solus-project/evopop-gtk-theme).
+* This theme is based on the [dracula-slim-gtk-theme](https://www.gnome-look.org/s/Gnome/p/1687249).
