@@ -91,9 +91,9 @@ stage {
     box-shadow: inset 0 2px 4px rgba(40, 47, 54, 0.05); }
   .menu #notification StEntry:insensitive, .popup-menu #notification StEntry:insensitive, #menu-search-entry:insensitive {
     color: rgba(205, 217, 229, 0.45);
-    background-color: #262b32;
+    background-color: #262c32;
     border-color: 1px solid rgba(28, 29, 38, 0.945);
-    box-shadow: inset 0 2px 4px rgba(38, 43, 50, 0.05); }
+    box-shadow: inset 0 2px 4px rgba(38, 44, 50, 0.05); }
   .menu #notification StEntry StIcon.capslock-warning, .popup-menu #notification StEntry StIcon.capslock-warning, #menu-search-entry StIcon.capslock-warning {
     icon-size: 16px;
     warning-color: #F27835;

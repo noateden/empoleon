@@ -811,7 +811,7 @@ StScrollBar {
 
 .datemenu-calendar-column {
   border: 0 solid transparent;
-  background: #282e37; }
+  background: #282f35; }
   .datemenu-calendar-column:ltr {
     border-left-width: 1px; }
   .datemenu-calendar-column:rtl {
@@ -979,7 +979,7 @@ StScrollBar {
     color: #b6bfc8; }
 
 .message-list-clear-button.button {
-  background: #282e37;
+  background: #282f35;
   border: 1px solid transparent;
   margin: 1.5em 1.5em 0; }
   .message-list-clear-button.button:hover, .message-list-clear-button.button:focus {
@@ -1008,7 +1008,7 @@ StScrollBar {
   background: transparent; }
 
 .message {
-  background: #282e37;
+  background: #282f35;
   border: 1px solid #22272d;
   border-radius: 5px;
   box-shadow: none; }
@@ -1549,7 +1549,7 @@ StScrollBar {
   .notification-banner .secondary-icon {
     icon-size: 1.09em; }
   .notification-banner .notification-actions {
-    background-color: #262b32;
+    background-color: #262c32;
     padding-top: 2px;
     spacing: 1px; }
   .notification-banner .notification-button {
@@ -1561,7 +1561,7 @@ StScrollBar {
     .notification-banner .notification-button:last-child {
       border-radius: 0 0 3px 0; }
     .notification-banner .notification-button:hover, .notification-banner .notification-buttonfocus {
-      background-color: #262b32;
+      background-color: #262c32;
       color: rgba(135, 186, 247, 0.5); }
 
 .summary-source-counter {
