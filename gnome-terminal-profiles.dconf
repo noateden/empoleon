@@ -1,14 +1,14 @@
 [:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
 audible-bell=false
-background-color='rgb(33,38,44)'
+background-color='rgb(28,33,40)'
 background-transparency-percent=0
-bold-is-bright=false
+bold-is-bright=true
 cursor-shape='ibeam'
 default-size-columns=120
 default-size-rows=28
 font='Monospace 9'
 foreground-color='rgb(205,217,229)'
-palette=['rgb(46,52,54)', 'rgb(244,112,103)', 'rgb(107,196,109)', 'rgb(218,170,63)', 'rgb(83,155,245)', 'rgb(139,97,158)', 'rgb(45,175,185)', 'rgb(171,191,212)', 'rgb(85,87,83)', 'rgb(244,135,113)', 'rgb(127,204,129)', 'rgb(226,188,105)', 'rgb(108,182,255)', 'rgb(174,144,187)', 'rgb(70,201,210)', 'rgb(205,217,229)']
+palette=['rgb(42,50,60)', 'rgb(244,112,103)', 'rgb(87,171,90)', 'rgb(198,144,38)', 'rgb(83,155,245)', 'rgb(176,131,240)', 'rgb(57,197,207)', 'rgb(171,191,212)', 'rgb(63,75,90)', 'rgb(255,147,138)', 'rgb(107,196,109)', 'rgb(218,170,63)', 'rgb(108,182,255)', 'rgb(220,189,251)', 'rgb(86,212,221)', 'rgb(205,217,229)']
 scroll-on-output=true
 scrollbar-policy='never'
 use-system-font=false

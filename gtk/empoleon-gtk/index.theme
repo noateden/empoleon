@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Empoleon
+Comment=A flat and dark theme with a modern look
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Empoleon
+MetacityTheme=Empoleon
+IconTheme=Mint-Y
+ButtonLayout=menu:minimize,maximize,close
