@@ -434,7 +434,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 #panel:highlight {
   border-image: none;
-  background-color: rgba(255, 147, 138, 0.5);
+  background-color: rgba(234, 105, 98, 0.5);
 }
 
 #panelLeft {
@@ -443,8 +443,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 #panelLeft:dnd {
   background-gradient-direction: vertical;
-  background-gradient-start: rgba(255, 147, 138, 0.35);
-  background-gradient-end: rgba(255, 147, 138, 0.35);
+  background-gradient-start: rgba(234, 105, 98, 0.35);
+  background-gradient-end: rgba(234, 105, 98, 0.35);
 }
 
 #panelLeft:ltr {
@@ -501,8 +501,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 #panelCenter:dnd {
   background-gradient-direction: vertical;
-  background-gradient-start: rgba(107, 196, 109, 0.35);
-  background-gradient-end: rgba(107, 196, 109, 0.35);
+  background-gradient-start: rgba(137, 180, 130, 0.35);
+  background-gradient-end: rgba(137, 180, 130, 0.35);
 }
 
 .panel-top, .panel-bottom, .panel-left, .panel-right {
@@ -532,11 +532,11 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .panel-dummy {
-  background-color: rgba(255, 147, 138, 0.5);
+  background-color: rgba(234, 105, 98, 0.5);
 }
 
 .panel-dummy:entered {
-  background-color: rgba(255, 147, 138, 0.6);
+  background-color: rgba(234, 105, 98, 0.6);
 }
 
 .panel-status-button {
@@ -994,7 +994,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .calendar-event-time-present:all-day {
-  color: rgba(107, 196, 109, 0.6);
+  color: rgba(137, 180, 130, 0.6);
 }
 
 .calendar-event-time-future {
@@ -1018,7 +1018,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .calendar-event-countdown:current {
-  color: rgba(107, 196, 109, 0.6);
+  color: rgba(137, 180, 130, 0.6);
 }
 
 .calendar-event-summary {
@@ -1244,7 +1244,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .run-dialog-error-label {
-  color: #ff938a;
+  color: #ea6962;
 }
 
 .run-dialog-error-box {
@@ -1661,7 +1661,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .window-list-box:highlight {
-  background-color: rgba(255, 147, 138, 0.5);
+  background-color: rgba(234, 105, 98, 0.5);
 }
 
 .window-list-item-label {
@@ -1782,8 +1782,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .window-list-item-box .progress {
   background-gradient-direction: vertical;
-  background-gradient-start: #6bc46d;
-  background-gradient-end: #6bc46d;
+  background-gradient-start: #89b482;
+  background-gradient-end: #89b482;
   border-radius: 5px;
   box-shadow: none;
 }
@@ -1808,7 +1808,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .grouped-window-list-thumbnail-alert {
-  background-color: rgba(255, 147, 138, 0.5);
+  background-color: rgba(234, 105, 98, 0.5);
 }
 
 .grouped-window-list-thumbnail-menu {
@@ -1905,8 +1905,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .grouped-window-list-item-box .progress {
   background-gradient-direction: vertical;
-  background-gradient-start: #6bc46d;
-  background-gradient-end: #6bc46d;
+  background-gradient-start: #89b482;
+  background-gradient-end: #89b482;
   border-radius: 5px;
   box-shadow: none;
 }
@@ -2218,7 +2218,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .applet-box:highlight {
   background-image: none;
   border-image: none;
-  background-color: rgba(255, 147, 138, 0.5);
+  background-color: rgba(234, 105, 98, 0.5);
 }
 
 .applet-label {
@@ -2261,7 +2261,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .desklet:highlight {
-  background-color: rgba(255, 147, 138, 0.5);
+  background-color: rgba(234, 105, 98, 0.5);
 }
 
 .desklet-with-borders {
@@ -2272,7 +2272,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .desklet-with-borders:highlight {
-  background-color: rgba(255, 147, 138, 0.5);
+  background-color: rgba(234, 105, 98, 0.5);
 }
 
 .desklet-with-borders-and-header {
@@ -2286,7 +2286,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .desklet-with-borders-and-header:highlight {
-  background-color: rgba(255, 147, 138, 0.5);
+  background-color: rgba(234, 105, 98, 0.5);
 }
 
 .desklet-header {

@@ -961,7 +961,7 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 .prompt-dialog-error-label {
-  color: #ff938a;
+  color: #ea6962;
 }
 
 .prompt-dialog-info-label,
@@ -2243,7 +2243,7 @@ StEntry StLabel.hint-text, .popup-menu .search-entry StLabel.hint-text {
   -barlevel-height: 2px;
   -barlevel-background-color: rgba(205, 217, 229, 0.12);
   -barlevel-active-background-color: #6cb6ff;
-  -barlevel-overdrive-color: #ff938a;
+  -barlevel-overdrive-color: #ea6962;
   -barlevel-overdrive-separator-width: 2px;
   -barlevel-border-width: 0;
   -barlevel-border-color: rgba(205, 217, 229, 0.12);
@@ -2339,7 +2339,7 @@ StEntry StLabel.hint-text, .popup-menu .search-entry StLabel.hint-text {
 }
 
 #panel .panel-button.screen-recording-indicator {
-  box-shadow: inset 0 0 0 100px #ff938a;
+  box-shadow: inset 0 0 0 100px #ea6962;
 }
 
 #panel .panel-button.screen-sharing-indicator {
@@ -2910,7 +2910,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   -barlevel-border-color: transparent;
   -barlevel-active-background-color: #6cb6ff;
   -barlevel-active-border-color: transparent;
-  -barlevel-overdrive-color: #ff938a;
+  -barlevel-overdrive-color: #ea6962;
   -barlevel-overdrive-border-color: transparent;
   -barlevel-overdrive-separator-width: 2px;
   -barlevel-border-width: 0;
@@ -3557,15 +3557,15 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .screenshot-ui-capture-button:cast .screenshot-ui-capture-button-circle {
-  background-color: #ff938a;
+  background-color: #ea6962;
 }
 
 .screenshot-ui-capture-button:cast:hover .screenshot-ui-capture-button-circle, .screenshot-ui-capture-button:cast:focus .screenshot-ui-capture-button-circle {
-  background-color: #ffaba4;
+  background-color: #ed7e78;
 }
 
 .screenshot-ui-capture-button:cast:active .screenshot-ui-capture-button-circle {
-  background-color: #ff7266;
+  background-color: #e64b43;
 }
 
 .screenshot-ui-shot-cast-container {
@@ -4081,7 +4081,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .pop-shell-tab-urgent {
-  background: #ff938a;
+  background: #ea6962;
 }
 
 #panel.light-panel .panel-button,
