@@ -1,0 +1,69 @@
+// Empoleon Theme Color Palette
+
+// Red
+$red-light: #ff938a;
+$red-dark: #f47067;
+
+// Pink
+$pink-light: #F06292;
+$pink-dark: #EC407A;
+
+// Purple
+$purple-light: #dcbdfb;
+$purple-dark: #b083f0;
+
+// Blue
+$blue-light: #6cb6ff;
+$blue-dark: #539bf5;
+
+// Teal
+$teal-light: #4DB6AC;
+$teal-dark: #009688;
+
+// Green
+$green-light: #6bc46d;
+$green-dark: #57ab5a;
+
+// Yellow
+$yellow-light: #daaa3f;
+$yellow-dark: #c69026;
+
+// Orange
+$orange-light: #f69d50;
+$orange-dark: #f2780d;
+
+// Grey
+$grey-050: #FAFAFA;
+$grey-100: #F2F2F2;
+$grey-150: #EEEEEE;
+$grey-200: #DDDDDD;
+$grey-250: #CCCCCC;
+$grey-300: #BFBFBF;
+$grey-350: #A0A0A0;
+$grey-400: #9E9E9E;
+$grey-450: #868686;
+$grey-500: #727272;
+$grey-550: #555555;
+$grey-600: #464646;
+$grey-650: #3C3C3C;
+$grey-700: #2C2C2C;
+$grey-750: #242424;
+$grey-800: #212121;
+$grey-850: #121212;
+$grey-900: #0F0F0F;
+$grey-950: #030303;
+
+// White
+$white: #cdd9e5;
+
+// Black
+$black: #000000;
+
+// Button
+$button-close: #f47067;
+$button-max: #57ab5a;
+$button-min: #daaa3f;
+
+// Theme
+$default-light: $blue-light;
+$default-dark: $blue-dark;
