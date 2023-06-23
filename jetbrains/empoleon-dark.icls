@@ -8,9 +8,9 @@
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="6cb6ff" />
-    <option name="CARET_ROW_COLOR" value="2d333b" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="171b20" />
-    <option name="GUTTER_BACKGROUND" value="1c2128" />
+    <option name="CARET_ROW_COLOR" value="262c34" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1c1f24" />
+    <option name="GUTTER_BACKGROUND" value="181b20" />
     <option name="SELECTION_BACKGROUND" value="274467" />
   </colors>
   <attributes>
@@ -486,7 +486,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="9ab3cb" />
-        <option name="BACKGROUND" value="1c2128" />
+        <option name="BACKGROUND" value="181b20" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -550,7 +550,7 @@
     <option name="YAML_TEXT">
       <value>
         <option name="FOREGROUND" value="96d0ff" />
-        <option name="BACKGROUND" value="1c2128" />
+        <option name="BACKGROUND" value="181b20" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

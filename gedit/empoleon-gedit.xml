@@ -29,8 +29,8 @@ SOFTWARE.
 	<_description>Empoleon dark theme for Gedit</_description>
 
 	<!-- Dracula colors -->
-	<color name="background" value="#1C2128"/>
-	<color name="current-line" value="#2c333e"/>
+	<color name="background" value="#181b20"/>
+	<color name="current-line" value="#262c34"/>
 	<color name="selection" value="#dcbdfb"/>
 	<color name="foreground" value="#cdd9e5"/>
 	<color name="comment" value="#768390"/>
@@ -54,7 +54,7 @@ SOFTWARE.
 	<style name="line-numbers" foreground="weird-gray" background="background"/>
 	<style name="bracket-match" foreground="bone-white" background="background" underline="true"/>
 	<style name="search-match" foreground="selection" background="yellow"/>
-        <style name="background-pattern" background="#1c2128"/>
+	<style name="background-pattern" background="#181b20"/>
 
 
 	<style name="def:function" foreground="green"/>
