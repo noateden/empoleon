@@ -2934,7 +2934,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .switcher-list .item-box:selected {
-  background-color: #6cb6ff;
+  background-color: #3b424d;
   color: rgba(22, 25, 29, 0.87);
 }
 

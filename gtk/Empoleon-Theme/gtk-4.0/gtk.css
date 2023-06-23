@@ -4350,7 +4350,7 @@ row.entry.monospace {
 }
 
 row.entry.monospace text {
-  font-family: monospace;
+  font-family: inherit;
 }
 
 row.entry.error text > selection:focus-within {
@@ -6378,7 +6378,7 @@ star-image {
 }
 
 .update-failed-details {
-  font-family: Monospace;
+  font-family: inherit;
   font-size: smaller;
   padding: 12px;
 }
