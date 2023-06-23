@@ -31,15 +31,15 @@ SOFTWARE.
 	<!-- Dracula colors -->
 	<color name="background" value="#181b20"/>
 	<color name="current-line" value="#262c34"/>
-	<color name="selection" value="#dcbdfb"/>
+	<color name="selection" value="#274467"/>
 	<color name="foreground" value="#cdd9e5"/>
 	<color name="comment" value="#768390"/>
-	<color name="cyan" value="#56d4dd"/>
-	<color name="green" value="#6bc46d"/>
+	<color name="cyan" value="#7daea3"/>
+	<color name="green" value="#89b482"/>
 	<color name="orange" value="#f69d50"/>
-	<color name="pink" value="#ff4db2"/>
+	<color name="pink" value="#d3869b"/>
 	<color name="purple" value="#dcbdfb"/>
-	<color name="red" value="#ff938a"/>
+	<color name="red" value="#ea6962"/>
 	<color name="yellow" value="#daaa3f"/>
 
 	<!-- Helper colors -->
@@ -57,9 +57,9 @@ SOFTWARE.
 	<style name="background-pattern" background="#181b20"/>
 
 
-	<style name="def:function" foreground="green"/>
-	<style name="def:identifier" foreground="pink"/>
-	<style name="def:keyword" foreground="pink"/>
+	<style name="def:function" foreground="pink"/>
+	<style name="def:identifier" foreground="green"/>
+	<style name="def:keyword" foreground="green"/>
 	<style name="def:number" foreground="purple" />
 	<style name="def:boolean" foreground="purple"/>
 	<style name="def:string" foreground="yellow"/>

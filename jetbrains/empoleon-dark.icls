@@ -21,7 +21,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f47067" />
+        <option name="FOREGROUND" value="89b482" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -108,8 +108,8 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f47067" />
-        <option name="BACKGROUND" value="772e2c" />
+        <option name="FOREGROUND" value="ea6962" />
+        <option name="BACKGROUND" value="e33e35" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -168,9 +168,9 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="f47067" />
+        <option name="FOREGROUND" value="89b482" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="f47067" />
+        <option name="EFFECT_COLOR" value="89b482" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -211,12 +211,12 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f47067" />
+        <option name="FOREGROUND" value="89b482" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="f47067" />
+        <option name="FOREGROUND" value="89b482" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -226,7 +226,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="f47067" />
+        <option name="FOREGROUND" value="89b482" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -268,7 +268,7 @@
     </option>
     <option name="GO_BUILTIN_TYPE_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="f47067" />
+        <option name="FOREGROUND" value="89b482" />
       </value>
     </option>
     <option name="GO_EXPORTED_FUNCTION">
@@ -308,12 +308,12 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="8ddb8c" />
+        <option name="FOREGROUND" value="d3869b" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="8ddb8c" />
+        <option name="FOREGROUND" value="d3869b" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -394,7 +394,7 @@
     </option>
     <option name="PROPERTIES.KEY">
       <value>
-        <option name="FOREGROUND" value="f47067" />
+        <option name="FOREGROUND" value="89b482" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -470,7 +470,7 @@
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
-        <option name="FOREGROUND" value="f47067" />
+        <option name="FOREGROUND" value="89b482" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
@@ -513,7 +513,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f47067" />
+        <option name="FOREGROUND" value="89b482" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
@@ -539,12 +539,12 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="8ddb8c" />
+        <option name="FOREGROUND" value="d3869b" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="8ddb8c" />
+        <option name="FOREGROUND" value="d3869b" />
       </value>
     </option>
     <option name="YAML_TEXT">
@@ -556,7 +556,7 @@
     </option>
     <option name="org.rust.LIFETIME">
       <value>
-        <option name="FOREGROUND" value="f47067" />
+        <option name="FOREGROUND" value="89b482" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
